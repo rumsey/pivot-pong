@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
+  color: #eee;
 }
 
 body h1 {
@@ -90,15 +91,15 @@ td.action, th.action {
 
 #content {
   padding: 25px;
-  background-color: #DEDEDE;
+  background-color: #333;
 }
 
 .even {
-  background-color: #F0F0F0;
+  background-color: #555;
 }
 
 .odd {
-  background-color: #E7E7E7;
+  background-color: #777;
 }
 
 a.source {
